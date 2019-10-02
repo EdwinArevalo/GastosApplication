@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GastosApplication</string>
+    <string name="app_btnRegister">REGISTRAR</string>
+    <string name="app_textViewIngresosEgresos">Registrar Ingresos/Egresos</string>
+    <string name="app_monto">Monto</string>
+    <string name="app_tipoCuenta">Tipo de cuenta</string>
+    <string name="app_tipoTarjeta">Tarjeta de Crédito</string>
+    <string name="app_tipoAhorro">Ahorro</string>
+    <string name="app_tipoEfectivo">Efectivo</string>
+    <string name="app_Ingreso">Ingreso</string>
+    <string name="app_Egreso">Egreso</string>
+    <string name="app_soles">S/:</string>
+    <string name="app_saldoEfectivo">Saldo Actual Efectivo</string>
+    <string name="app_saldoCredito">Saldo Actual Crédito</string>
+    <string name="app_saldoAhorro">Saldo Actual Ahorro</string>
+    <string name="app_proporcion">Proporción Ingresos/ Egresos</string>
+    <string name="app_contabilidadIngresosEgresos">Contabilidad de Ingresos/ Egresos</string>
+</resources>
